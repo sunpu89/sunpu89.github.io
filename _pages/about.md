@@ -10,6 +10,8 @@ redirect_from:
 Sun Pu received his PHD degree from ShanghaiTech University in July 2024，
 during which time he was supervised by Professor [Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/).
 
+Now he is a lecturer of [Tongling University](https://www.tlu.edu.cn/) and 
+he also serves as vice president of technology for [Lookvision](http://www.lookvision.com.cn/).
 
 Tongling University , Doctor, CCF professional member, CCF formal methods committee corresponding member, Anhui Luke photoelectric Technology Co., LTD. He is mainly engaged in the research of information security, formal verification, cryptanalysis, etc. Assisted Huawei HarmonyOS Security Center to improve security protection methods, and was thanked by the official website; Xiaomi Security Center vulnerability CVE-2020-141082021 reporter. In recent years, he has published 4 papers in the first region (CCF A) and the second region (CCF B) in domestic and foreign journal conferences, of which one paper was published as the first author of the computer programming language POPL in 2024. One invention patent was authorized as a core member.
 
