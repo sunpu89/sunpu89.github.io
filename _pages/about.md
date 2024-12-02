@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify; text-justify: inter-word;">
+<p>
 Sun Pu received his PHD degree from ShanghaiTech University in July 2024,
 during which time he was supervised by Professor [Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/).
 Now he is a lecturer of [Tongling University](https://www.tlu.edu.cn/)
