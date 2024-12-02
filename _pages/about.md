@@ -41,7 +41,15 @@ He is mainly engaged in the research of formal verification, cryptanalysis, etc.
   **Pu Sun**, Sen Chen, Lingling Fan, Pengfei Gao, Fu Song and Min Yang \
   <font color= #27C8D4>\[[Paper](https://link.springer.com/article/10.1007/s11704-021-1126-x)\]</font>:paperclip:
   
-- Formal Verification of Masking Countermeasures for Arithmetic Programs
+- Formal Verification of Masking Countermeasures for Arithmetic Programs \
+  IEEE TSE 2021, CCF-A \
+  Pengfei Gao, Hongyi Xie, **Pu Sun**, Jun Zhang, Fu Song, and Taolue Chen \
+  <font color= #27C8D4>\[[Paper](https://dl.acm.org/doi/pdf/10.1145/3324884.3418920)\]</font>:paperclip:
+  
+- A novel valuation pruning optimization fuzzing testing modelbased on mutation tree \
+  Applied Soft Computing 2018, CCF-B \
+  Guofang Dong, **Pu Sun**, Wenbo Shi, Chang Choi \
+  <font color= #27C8D4>\[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494618300954)\]</font>:paperclip:
 
 
 
