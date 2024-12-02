@@ -24,10 +24,9 @@ author:
   avatar           : "LondonPhoto.png"
   name             : "Sun Pu"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "A Doctorate in Computer Science"
+  location         : "Anhui province, China"
+  employer         : "Tongling University"
   email            : "sunpu1995@outlook.com" 
 
   # Academic websites
@@ -42,14 +41,14 @@ author:
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  #codepen          : # Username
+  #dribbble         : # Username
+  github           : "https://github.com/sunpu89"
+  #kaggle           : # Username  
+  #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
