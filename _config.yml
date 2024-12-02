@@ -21,7 +21,7 @@ repository               : "sunpu89/sunpu89.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/LondonPhoto.png"
+  avatar           : "LondonPhoto.png"
   name             : "Sun Pu"
   pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
