@@ -7,14 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-<p>
 Sun Pu received his PHD degree from ShanghaiTech University in July 2024,
 during which time he was supervised by Professor [Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/).
 Now he is a lecturer of [Tongling University](https://www.tlu.edu.cn/)
 and also serves as vice president of technology for [Lookvision](http://www.lookvision.com.cn/).
 He is a China Computer Federation (CCF) professional member and a corresponding member of CCF Task Force on Formal methods (CCF TFFM).
 He is mainly engaged in the research of formal verification, cryptanalysis, etc. 
-</p>
+
+
+
+News
+======
+
+
+
+
+Educations
+======
+
+
+
+
+Publication
+======
+
+
 
 
 <!--
