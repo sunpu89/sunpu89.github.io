@@ -35,7 +35,11 @@ He is mainly engaged in the research of formal verification, cryptanalysis, etc.
   POPL 2024, CCF-A \
   **Pu Sun**, Fu Song, Yuqi Chen, Taolue Chen \
   <font color= #27C8D4>\[[Paper](https://dl.acm.org/doi/pdf/10.1145/3632871)\]</font>:paperclip:
-- rrr
+- VenomAttack: Automated and Adaptive Activity Hijacking in Android \
+  Frontiers of Computer Science 2022, SCI $\uppercase\expandafter{\romannumeral2}$ \
+  **Pu Sun**, Sen Chen, Lingling Fan, Pengfei Gao, Fu Song and Min Yang \
+  <font color= #27C8D4>\[[Paper](https://link.springer.com/article/10.1007/s11704-021-1126-x)\]</font>:paperclip:
+- 
 
 
 
