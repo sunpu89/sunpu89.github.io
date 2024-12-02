@@ -32,7 +32,10 @@ He is mainly engaged in the research of formal verification, cryptanalysis, etc.
 
 ### Publication
 * * *
-
+- EasyBC: A Cryptography-Specific Language for Security Analysis of Block Ciphers against Differential Cryptanalysis
+  POPL 2024, CCF-A
+  **Pu Sun**, Fu Song, Yuqi Chen, Taolue Chen
+- rrr
 
 
 
