@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Sun Pu received his PHD degree from ShanghaiTech University in July 2024, during which time he was supervised by Professor [Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/). \
+Sun Pu received his PHD degree from ShanghaiTech University in July 2024, during which time he was supervised by Professor <font color= #27C8D4>[Fu Song](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/)</font>. \
 Now he is a lecturer of [Tongling University](https://www.tlu.edu.cn/) and also serves as vice president of technology for [Lookvision](http://www.lookvision.com.cn/). \
 He is a China Computer Federation (CCF) professional member and a corresponding member of CCF Task Force on Formal methods (CCF TFFM). \
 He is mainly engaged in the research of formal verification, cryptanalysis, etc. 
@@ -34,7 +34,7 @@ He is mainly engaged in the research of formal verification, cryptanalysis, etc.
 - EasyBC: A Cryptography-Specific Language for Security Analysis of Block Ciphers against Differential Cryptanalysis \
   POPL 2024, CCF-A \
   **Pu Sun**, Fu Song, Yuqi Chen, Taolue Chen \
-  <font color=#27C8D4>\[Paper\](https://dl.acm.org/doi/pdf/10.1145/3632871)</font>
+  <font color= #27C8D4>\[[Paper](https://dl.acm.org/doi/pdf/10.1145/3632871)\]</font>:paperclip:
 - rrr
 
 
